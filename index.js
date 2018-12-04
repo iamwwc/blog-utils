@@ -1,0 +1,1 @@
+exports.marked = require('./lib/marked')
